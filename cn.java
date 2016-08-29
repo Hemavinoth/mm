@@ -1,9 +1,11 @@
-import java.util.*;
-class cn
-{
-public static void main(String args[])
-{
-system.out.println("C:\Windows\System32\shutdown");
-return 0;
+import java.util.Scanner;
+
+public class cn {
+public static void main(String args[]){
+	int a;
+	Scanner s=new Scanner(System.in);
+	n=s.nextInt();
+	num=(int) Math.floor(Math.random() * 101);
+	System.out.println(n);
 }
 }
